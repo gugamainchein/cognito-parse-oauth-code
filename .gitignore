@@ -1,0 +1,5 @@
+.env
+google-data
+node_modules
+*.log
+package-lock.json
